@@ -1,0 +1,34 @@
+<resources>
+    <string name="sticker_1">Sticker 1</string>
+    <string name="sticker_2">Sticker 2</string>
+    <string name="sticker_3">Sticker 3</string>
+    <string name="sticker_4">Sticker 4</string>
+    <string name="sticker_5">Sticker 5</string>
+    <string name="sticker_6">Sticker 6</string>
+    <string name="click_sticker_to_send">Click sticker to send.</string>
+    <string name="app_name">Stick It To Em</string>
+    <string name="username_prompt">Enter Username</string>
+    <string name="Login">Login</string>
+    <string name="password_prompt">Enter Password</string>
+    <string name="chat_screen_indication">See chat history or send a new sticker</string>
+    <string name="see_all_stickers">See All Stickers</string>
+    <string name="username">Username</string>
+    <string name="send_sticker">Send Sticker</string>
+    <string-array name="pre_existing_users">
+        <item>alex</item>
+        <item>bob</item>
+        <item>charlie</item>
+        <item>alex</item>
+        <item>bob</item>
+        <item>charlie</item>
+        <item>alex</item>
+        <item>bob</item>
+        <item>charlie</item>
+        <item>alex</item>
+        <item>bob</item>
+        <item>charlie</item>
+        <item>alex</item>
+        <item>bob</item>
+        <item>charlie</item>
+    </string-array>
+</resources>

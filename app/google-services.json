@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64880255763",
+    "firebase_url": "https://a7-sticker-50bdc-default-rtdb.firebaseio.com",
+    "project_id": "a7-sticker-50bdc",
+    "storage_bucket": "a7-sticker-50bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64880255763:android:8f479d34e9250834ca70e6",
+        "android_client_info": {
+          "package_name": "edu.neu.a7sticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64880255763-318gmlo9gsp8br61qi5ufspc6kt9r1ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIGOkJXLz4M7CnO0jJOQMMuFl1viBUNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64880255763-318gmlo9gsp8br61qi5ufspc6kt9r1ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
